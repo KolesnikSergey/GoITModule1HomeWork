@@ -3,6 +3,6 @@
  */
 public class ProgrammEntryPoint {
     public static void main (String[] args) {
-        System.out.println("Git from Idea test.");
+        System.out.println("Git commit from command line.");
     }
 }
